@@ -7,11 +7,11 @@
 - [ ] 1 medium sized ginger root (170g)
 - [ ] 1/2 cup fish sauce
 - [ ] 1 tbsp sugar
-- [ ] 2 Star anise
+- [ ] 2 star anise
 - [ ] 1 cinnamon stick
-- [ ] 5 Bay leaves
-- [ ] 1 tbsp Fennel seeds
-- [ ] 200 g Rice noodles
+- [ ] 5 bay leaves
+- [ ] 1 tbsp fennel seeds
+- [ ] 200 g rice noodles
 - [ ] Thai basil
 - [ ] Cilantro
 - [ ] Green onion
