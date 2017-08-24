@@ -1,8 +1,8 @@
 ### Beef Phở
 # Ingredients
-- [ ] 450g beef leg bone
-- [ ] 180g beef marrow bone
-- [ ] 400g beef filet
+- [ ] 450 g beef leg bone
+- [ ] 180 g beef marrow bone
+- [ ] 400 g beef filet
 - [ ] 1 large onion (450g)
 - [ ] 1 medium sized ginger root (170g)
 - [ ] 1/2 cup fish sauce
@@ -12,7 +12,7 @@
 - [ ] 1 cinnamon stick
 - [ ] 5 Bay leaves
 - [ ] 1 tbsp Fennel seeds
-- [ ] 200g Rice noodles
+- [ ] 200 g Rice noodles
 - [ ] Thai basil
 - [ ] Cilantro
 - [ ] Green onion
@@ -33,7 +33,7 @@
 1. Prepare the rice noodles according to the package instructions.
 2. Slice the green onion in small pieces.
 3. Slice the beef filet in very thin slices.
-4. Add XXXg of cooked rice noodles, XXXg of beef filet and some of your prepared broth to a bowl. The broth needs to cover the beef filet since your beef filet is still uncooked.
+4. Add XXX g of cooked rice noodles, XXX g of beef filet and some of your prepared broth to a bowl. The broth needs to cover the beef filet since your beef filet is still uncooked.
 5. Top it up with the sliced green onion, some of the Thai basil, cilantro and some lime. Additionally, you could add Sriracha, hoisin and soy sauce, sliced garlic and chili peppers.
 
 
