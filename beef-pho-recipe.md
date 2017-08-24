@@ -1,4 +1,4 @@
-### Beef Phở
+### Beef Phở 🍜
 # Ingredients
 - [ ] 450 g beef leg bone
 - [ ] 180 g beef marrow bone
