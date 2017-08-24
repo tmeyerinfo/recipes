@@ -29,7 +29,7 @@
 9. For the last two hours, add you spice bag.
 10. Remove the pot from the stove.
 11. Remove all ingredients and strain the broth. The broth is ready!
-# Pho preparation
+# Phở preparation
 1. Prepare the rice noodles according to the package instructions.
 2. Slice the green onion in small pieces.
 3. Slice the beef filet in very thin slices.
