@@ -6,7 +6,6 @@
 - [ ] 1 large onion (450g)
 - [ ] 1 medium sized ginger root (170g)
 - [ ] 1/2 cup fish sauce
-- [ ] 1 tsp salt
 - [ ] 1 tbsp sugar
 - [ ] 2 Star anise
 - [ ] 1 cinnamon stick
