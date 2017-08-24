@@ -33,6 +33,6 @@
 2. Slice the green onion in small pieces.
 3. Slice the beef filet in very thin slices.
 4. Add XXX g of cooked rice noodles, XXX g of beef filet and some of your prepared broth to a bowl. The broth needs to cover the beef filet since your beef filet is still uncooked.
-5. Top it up with the sliced green onion, some of the Thai basil, cilantro and some lime. Additionally, you could add Sriracha, hoisin and soy sauce, sliced garlic and chili peppers.
+5. Top it up with the sliced green onion, some of the Thai basil, cilantro and some lime. Additionally, you could add Sriracha, hoisin and soy sauce, sliced garlic and chili peppers. Enjoy!
 
 
