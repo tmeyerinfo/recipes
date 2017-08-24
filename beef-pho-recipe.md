@@ -8,7 +8,7 @@
 - [ ] 1/2 cup fish sauce
 - [ ] 1 tsp salt
 - [ ] 1 tbsp sugar
-- [ ] 4 Star anise
+- [ ] 2 Star anise
 - [ ] 1 cinnamon stick
 - [ ] 5 Bay leaves
 - [ ] 1 tbsp Fennel seeds
@@ -26,7 +26,7 @@
 6. Put the beef leg bone and marrowbone in the pot and add 4.5 liters of water. Bring the water to a boil and after that to a simmer by lowering the heat. Keep the pot uncovered!
 7. Put the star anise, cinnamon stick, bay leaves and fennel seeds in a pan and roast them for 2-3 minutes. Put the roasted spices in a spice bag for later use.
 8. Add the sliced and roasted onion and ginger, fish sauce, sugar, salt to the simmering water and cook everything for 4 hours. Keep the pot uncovered the whole time!
-9. For the last two hours, add you spice bag.
+9. For the hour, add you spice bag.
 10. Remove the pot from the stove.
 11. Remove all ingredients and strain the broth. The broth is ready!
 # Phở preparation
