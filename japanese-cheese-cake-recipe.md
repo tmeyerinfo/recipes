@@ -10,7 +10,7 @@
 - [ ] 100g sugar
 # Baking preparation
 1. Fill a tray with room temperature water until 1 cm high and place it in the oven. We will later place the pan in the tray.
-2. Preheat oven to 120 C. Top and bottom heat elements without fan.
+2. Preheat oven to 120 C. Top and bottom heat elements without fan. Buy yourself an oven thermometer, since you want to be accurate with those temperatures.
 3. Prepare three round baking paper cuttings (18 cm).
 # Dough preparation
 1. Put whole milk, cream cheese and butter in a pan, place it on the stove and heat over a low fire. Mix ingredients until they are melted and combined. Turn off the fire before mixture reaches boiling point.
